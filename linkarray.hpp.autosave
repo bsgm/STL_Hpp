@@ -1,0 +1,21 @@
+#ifndef LINKARRAY_HPP
+#define LINKARRAY_HPP
+
+#include "vector.hpp"
+
+namespace STL{
+
+template <typename T>
+class LinkArray
+{
+protected:
+    
+public:
+    LinkArray() {}
+};
+
+
+}
+
+
+#endif // LINKARRAY_HPP
